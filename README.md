@@ -23,4 +23,6 @@ The dataset used is the IBM HR Analytics Employee Attrition dataset, containing 
 - Pivot Charts(Pie,Bar,Line)
 - ConditionL Formatting
 - Slicers
-	
+
+  ### Dashboard
+
