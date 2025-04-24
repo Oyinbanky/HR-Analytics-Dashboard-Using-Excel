@@ -25,7 +25,7 @@ The dataset used is the IBM HR Analytics Employee Attrition dataset, containing 
 - Slicers
 
   ### Dashboard
-
- ![Dashboard Overview](HR-Data-Analytics-Dashboard2.png)
+  ![Dashboard Overview](HR-Data-Analytics-Dashboard1.png)
+  ![Dasboard Overview](HR-Data-Analytics-Dashboard2.png)
  
 
