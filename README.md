@@ -24,5 +24,5 @@ The dataset used is the IBM HR Analytics Employee Attrition dataset, containing 
 - ConditionL Formatting
 - Slicers
 
-  ### Dashboard
+  
 
