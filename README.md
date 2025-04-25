@@ -3,13 +3,25 @@
  [Project Overview](#project-overview)
 
  [Problem Statement](problem-statement)
+
+ [Dataset Description](dataset-description)
+
+ [Tools Used](tools-used)
+
+ [Dashboard](dashboard)
+
+ [Methodology](methodology)
+
+ [Pivot Tables](pivot-tables)
+
+ [Formula used for calculating Attrition Rate](formula-used-for-calculating-attrition-rate)
+
+ [Insights and Findings](insightsoand-findings)
+
+ [Recommendations](recommendations)
+
+ [Conclusion](conclusion)
  
-
-
-
-
-
-
 ## HR-Analytics-Dashboard-Using-Excel
 In this project, i analyzed an HR dataset to uncover insights about employee attrition in an organization. Built entirely with Microsoft Excel. The dashboard includes pivot tables, charts and slicers to visualize the trends across several employee attributes. The goal is to help HR teams understand key factors driving attrition and inform data driving decision making.
 
