@@ -1,3 +1,5 @@
+### Table of Contents
+ 
  [HR-Analytics-Dashboard-Using-Excel](#hr-analytics-dashboard-using-excel)
  
  [Project Overview](#project-overview)
@@ -16,7 +18,7 @@
 
  [Formula used for calculating Attrition Rate](#formula-used-for-calculating-attrition-rate)
 
- [Insights and Findings](#insightsoand-findings)
+ [Insights and Findings](#insights-and-findings)
 
  [Recommendations](#recommendations)
 
