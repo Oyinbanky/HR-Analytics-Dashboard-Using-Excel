@@ -65,8 +65,10 @@ The dataset used is the IBM HR Analytics Employee Attrition dataset, containing 
 ![Pivot-Table6](Pivot-Table/Pivot-Table6.png)
 
 ---
-### Formula used for calculating Attrition Rate
+ ### Formula used for calculating Attrition Rate
+ ```
 = [Number of Attrition] / [Total Employees]
+```
 ---
 ### Insights and Findings:
 ---
