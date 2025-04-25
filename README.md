@@ -1,3 +1,13 @@
+ [HR-Analytics-Dashboard-Using-Excel](#hr-analytics-dashboard-using-excel)
+ 
+ [Project Overview](#project-overview)
+ 
+
+
+
+
+
+
 ## HR-Analytics-Dashboard-Using-Excel
 In this project, i analyzed an HR dataset to uncover insights about employee attrition in an organization. Built entirely with Microsoft Excel. The dashboard includes pivot tables, charts and slicers to visualize the trends across several employee attributes. The goal is to help HR teams understand key factors driving attrition and inform data driving decision making.
 
