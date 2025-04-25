@@ -52,16 +52,24 @@ The dataset used is the IBM HR Analytics Employee Attrition dataset, containing 
 
 ---
 ### Pivot Tables
-![Pivot Table](Pivot-Table1.png)
+![Pivot-Table1](Pivot-Table/Pivot-Table1.png)
 
-![Pivot Table](Pivot-Table2.png)
+![Pivot-Table2](Pivot-Table/Pivot-Table2.png)
 
-![Pivot Table](Pivot-Table3.png)
+![Pivot-Table3](Pivot-Table/Pivot-Table3.png)
 
-![Pivot Table](Pivot-Table4.png)
+![Pivot-Table4](Pivot-Table/Pivot-Table4.png)
 
-![Pivot Table](Pivot-Table5.png)
+![Pivot-Table5](Pivot-Table/Pivot-Table5.png)
+
+![Pivot-Table6](Pivot-Table/Pivot-Table6.png)
+
 ---
+### Formula used for calculating Attrition Rate
+= [Number of Attrition] / [Total Employees]
+---
+###
+
 
 
  
