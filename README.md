@@ -53,7 +53,15 @@ The dataset used is the IBM HR Analytics Employee Attrition dataset, containing 
 ### Pivot Tables
 ![Pivot Table](Pivot-Table1.png)
 
-![Pivot Table](Pivot Table2.png)
+![Pivot Table](Pivot-Table2.png)
+
+![Pivot Table](Pivot-Table3.png)
+
+![Pivot Table](Pivot-Table4.png)
+
+![Pivot Table](Pivot-Table5.png)
+---
+
 
  
 
