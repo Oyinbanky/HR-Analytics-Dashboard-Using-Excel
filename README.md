@@ -29,10 +29,11 @@ The dataset used is the IBM HR Analytics Employee Attrition dataset, containing 
 - Slicers
 ---
   ### Dashboard
-  ![Dashboard Overview](HR-Data-Analytics-Dashboard1.png)
+  ![HR Data Analytics Dashboard](Dashboards/HR-Data-Analytics-Dashboard1.png)
 
-  
-  ![Dasboard Overview](HR-Data-Analytics-Dashboard2.png)
+
+  ![HR Data Analytics Dashboard](Dashboards/HR-Data-Analytics-Dashboard2.png)
+
 ---
   ### Methodology
   This project analyzes employee attrition trends using Microsoft Excel, focusing on data transformation, analysis, and visualization:
